@@ -30,7 +30,7 @@ body {
 
 .parent {
     display: grid;
-    grid-template-columns: repeat(auto-fit, min(500px));
+    grid-template-columns: repeat(auto-fit, min(430px));
     grid-template-rows: repeat(auto-fit,  min(auto-fit));
     grid-column-gap: 30px;
     grid-row-gap: 30px;
@@ -40,5 +40,5 @@ body {
 }
 
 .map-img {
-    max-width: 500px;
+    max-width: 430px;
 }
